@@ -16,13 +16,12 @@
     "clean": "rm -rf lib",
     "flow": "flow",
     "lint": "prettier --check src/**/*.js",
-    "prepublishOnly": "yarn run lint && yarn run flow && yarn run test && yarn run clean && yarn run build",
     "coverage": "codecov",
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carloscuesta/gitmoji-cli.git"
+    "url": "git+https://github.com/Yousign/gitmoji-cli.git#custom"
   },
   "keywords": [
     "gitmoji",
