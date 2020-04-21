@@ -1,0 +1,87 @@
+{
+  "gitmojis": [
+    {
+      "emoji": "✨",
+      "entity": "&#x2728;",
+      "code": ":sparkles:",
+      "description": "Adding new features.",
+      "name": "sparkles"
+    },
+    {
+      "emoji": "🐛",
+      "entity": "&#x1f41b;",
+      "code": ":bug:",
+      "description": "Fixing a bug.",
+      "name": "bug"
+    },
+    {
+      "emoji": "🚓",
+      "entity": "&#x1f693;",
+      "code": ":police_car:",
+      "description": "Fixing security issues.",
+      "name": "police_car"
+    },
+    {
+      "emoji": "♻️",
+      "entity": "&#x2672;",
+      "code": ":recycle:",
+      "description": "Refactoring code.",
+      "name": "recycle"
+    },
+    {
+      "emoji": "💄",
+      "entity": "&#ff99cc;",
+      "code": ":lipstick:",
+      "description": "UI improvements.",
+      "name": "lipstick"
+    },
+    {
+      "emoji": "✅",
+      "entity": "&#x2705;",
+      "code": ":white_check_mark:",
+      "description": "Writing, maintaining and fixing tests.",
+      "name": "white-check-mark"
+    },
+    {
+      "emoji": "⚡️",
+      "entity": "&#x26a1;",
+      "code": ":zap:",
+      "description": "Improving performance.",
+      "name": "zap"
+    },
+    {
+      "emoji": "✏️",
+      "entity": "&#59161;",
+      "code": ":pencil2:",
+      "description": "Fixing typos.",
+      "name": "pencil"
+    },
+    {
+      "emoji": "📝",
+      "entity": "&#x1f4dd;",
+      "code": ":pencil:",
+      "description": "Writing documentation and commenting code.",
+      "name": "pencil"
+    },
+    {
+      "emoji": "👌",
+      "entity": "&#x1f44c;",
+      "code": ":ok_hand:",
+      "description": "Fixing after code review. Warning: you should probably amend/fixup commit instead.",
+      "name": "ok-hand"
+    },
+    {
+      "emoji": "📈",
+      "code": ":chart_with_upwards_trend:",
+      "description": "Adding tracking event.",
+      "name": "chart-with-upwards-trend"
+    },
+    {
+      "emoji": "🔧",
+      "entity": "&#x1f527;",
+      "code": ":wrench:",
+      "description": "Anything else (chores, configuration, small changes, etc.).",
+      "name": "wrench"
+    }
+  ]
+}
